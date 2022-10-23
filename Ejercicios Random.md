@@ -34,6 +34,7 @@ int main() {
 
 ```
 
+----
 ## ~~Ejercicio 2~~
 
 Crear un programa que pida una cantidad de numeros y luego que muestre cual es la distancia que tiene cada numero con respecto al mayor.
@@ -64,6 +65,7 @@ int main() {
 
 ```
 
+----
 ## ~~Ejercicio 3~~
 
 Crear un programa que rellene un array de 10 elementos con numeros enteros, pedir un numero al usuario y comprobar si esta en el array, si esta mostrar la posicion en la que se encuentra y si no esta mostrar un mensaje diciendo que no se encuentra.
@@ -100,7 +102,7 @@ int main() {
 
 ```
 
-
+----
 ## ~~Ejercicio 4~~
 
 Crear un programa en C++ que llene un array con todos los números divisibles entre 3 del 0 al 99. Luego mostrar los elementos por pantalla.
@@ -124,6 +126,7 @@ int main (){
 
 ```
 
+----
 ## ~~Ejercicio 5~~
 
 Crear un programa que pida al usuario 10 numeros y los guarde en un array, luego mostrar los numeros introducidos por pantalla en orden inverso y el orden en el que se introdujeron.
@@ -154,6 +157,7 @@ int main(){
 
 ```
 
+----
 ## ~~Ejercicio 6~~
 
 Crear un programa que muestre que dia de la semana es hoy.
@@ -174,6 +178,7 @@ int main(){
 
 ```
 
+----
 ## ~~Ejercicio 7~~
 
 Crear un programa en C++ que llene un array de 10 enteros con números aleatorios del 0 al 99, luego de eso los muestre en pantalla y diga cuál es el elemento mayor y cuántas veces se repite.
@@ -210,6 +215,7 @@ int main (){
 
 ```
 
+----
 ## ~~Ejercicio 8~~
 
 Crear un programa que muestre que mes es hoy.
@@ -228,7 +234,7 @@ int main(){
 }	
 
 ```
-
+----
 ## ~~Ejercicio 9~~
 
 Crear un programa que pida al usuario 2 matrices y luego muestre un menu con las siguientes opciones: 
@@ -310,3 +316,4 @@ int main (){
 
 ```
 
+----
