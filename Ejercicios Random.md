@@ -317,3 +317,56 @@ int main (){
 ```
 
 ----
+
+## ~~Ejercicio 10~~
+
+/*hecho por kevin marquez a las 2:17 de la madrugada antes del examen pa practicar xd
+Programa que con un array imprima los dias de la semana usando la consola, osea, q lo pongas uno a uno a mano en el orden
+q se te pega la prra gana ps
+*/
+
+#include <iostream>                                 //Librerias
+using namespace std;
+int main() {                                
+
+int dias[7] = {1,2,3,4,5,6,7};
+cout<< "introduzca un dia de la semana"<<endl;
+
+for (int i; i < 8; i++) {
+	cin >> dias[i];
+	switch (dias[i]) {
+	
+	case 1: 
+	cout<< "es lunes"<<endl;
+	break;
+		case 2: 
+	cout<< "es martes"<<endl;
+	break;
+		case 3: 
+	cout<< "es miercoles"<<endl;
+	break;
+		case 4: 
+	cout<< "es jueves"<<endl;
+	break;
+		case 5: 
+	cout<< "es viernes"<<endl;
+	break;
+		case 6: 
+	cout<< "es sabado"<<endl;
+	break;
+		case 7: 
+	cout<< "es domingo"<<endl;
+	break;
+	default: 
+	cout<< "no es un dia de la semana" << endl;
+	break;
+	
+	}
+}
+ 
+		return 0;                                       //Fin del programa
+}
+
+```
+
+----
